@@ -1,0 +1,329 @@
+# Voeg dit toe in configuration.yaml onder input_number:
+
+# ============================================================
+# KIND 1 - Kopieer dit blok 4x en vervang kind1/kind2/kind3/kind4
+# ============================================================
+
+input_number:
+  kind1_chore_1:
+    name: "Kind 1 - Punt 1"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_2:
+    name: "Kind 1 - Punt 2"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_3:
+    name: "Kind 1 - Punt 3"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_4:
+    name: "Kind 1 - Punt 4"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_5:
+    name: "Kind 1 - Punt 5"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_6:
+    name: "Kind 1 - Punt 6"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_7:
+    name: "Kind 1 - Punt 7"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_8:
+    name: "Kind 1 - Punt 8"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_9:
+    name: "Kind 1 - Punt 9"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind1_chore_10:
+    name: "Kind 1 - Punt 10"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  # KIND 2 - COPY PASTE EN VERVANG kind1 DOOR kind2
+  kind2_chore_1:
+    name: "Kind 2 - Punt 1"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_2:
+    name: "Kind 2 - Punt 2"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_3:
+    name: "Kind 2 - Punt 3"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_4:
+    name: "Kind 2 - Punt 4"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_5:
+    name: "Kind 2 - Punt 5"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_6:
+    name: "Kind 2 - Punt 6"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_7:
+    name: "Kind 2 - Punt 7"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_8:
+    name: "Kind 2 - Punt 8"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_9:
+    name: "Kind 2 - Punt 9"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind2_chore_10:
+    name: "Kind 2 - Punt 10"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  # KIND 3 - COPY PASTE EN VERVANG kind1 DOOR kind3
+  kind3_chore_1:
+    name: "Kind 3 - Punt 1"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_2:
+    name: "Kind 3 - Punt 2"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_3:
+    name: "Kind 3 - Punt 3"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_4:
+    name: "Kind 3 - Punt 4"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_5:
+    name: "Kind 3 - Punt 5"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_6:
+    name: "Kind 3 - Punt 6"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_7:
+    name: "Kind 3 - Punt 7"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_8:
+    name: "Kind 3 - Punt 8"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_9:
+    name: "Kind 3 - Punt 9"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind3_chore_10:
+    name: "Kind 3 - Punt 10"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  # KIND 4 - COPY PASTE EN VERVANG kind1 DOOR kind4
+  kind4_chore_1:
+    name: "Kind 4 - Punt 1"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_2:
+    name: "Kind 4 - Punt 2"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_3:
+    name: "Kind 4 - Punt 3"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_4:
+    name: "Kind 4 - Punt 4"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_5:
+    name: "Kind 4 - Punt 5"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_6:
+    name: "Kind 4 - Punt 6"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_7:
+    name: "Kind 4 - Punt 7"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_8:
+    name: "Kind 4 - Punt 8"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_9:
+    name: "Kind 4 - Punt 9"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle
+
+  kind4_chore_10:
+    name: "Kind 4 - Punt 10"
+    min: 0
+    max: 1
+    step: 1
+    unit_of_measurement: ""
+    icon: mdi:checkbox-marked-circle

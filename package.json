@@ -1,0 +1,29 @@
+{
+  "name": "lovelace-chore-points-card",
+  "version": "1.0.0",
+  "description": "Home Assistant Lovelace card for tracking children's chores and points with PIN-protected reset",
+  "main": "chore-points-card.js",
+  "scripts": {
+    "build": "echo 'No build needed - vanilla JS'",
+    "watch": "echo 'Edit chore-points-card.js directly'"
+  },
+  "keywords": [
+    "home-assistant",
+    "lovelace",
+    "custom-card",
+    "chores",
+    "children",
+    "tasks",
+    "points"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/lovelace-chore-points-card.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/lovelace-chore-points-card/issues"
+  },
+  "homepage": "https://github.com/your-username/lovelace-chore-points-card#readme"
+}

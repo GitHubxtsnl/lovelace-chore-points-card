@@ -1,0 +1,80 @@
+# Voeg dit toe in je Lovelace Dashboard YAML
+
+views:
+  - title: Punten van Kinderen
+    cards:
+      # ============================================================
+      # KIND 1
+      # ============================================================
+      - type: custom:chore-points-card
+        title: "Kind 1"
+        entities:
+          - input_number.kind1_chore_1
+          - input_number.kind1_chore_2
+          - input_number.kind1_chore_3
+          - input_number.kind1_chore_4
+          - input_number.kind1_chore_5
+          - input_number.kind1_chore_6
+          - input_number.kind1_chore_7
+          - input_number.kind1_chore_8
+          - input_number.kind1_chore_9
+          - input_number.kind1_chore_10
+
+      # ============================================================
+      # KIND 2
+      # ============================================================
+      - type: custom:chore-points-card
+        title: "Kind 2"
+        entities:
+          - input_number.kind2_chore_1
+          - input_number.kind2_chore_2
+          - input_number.kind2_chore_3
+          - input_number.kind2_chore_4
+          - input_number.kind2_chore_5
+          - input_number.kind2_chore_6
+          - input_number.kind2_chore_7
+          - input_number.kind2_chore_8
+          - input_number.kind2_chore_9
+          - input_number.kind2_chore_10
+
+      # ============================================================
+      # KIND 3
+      # ============================================================
+      - type: custom:chore-points-card
+        title: "Kind 3"
+        entities:
+          - input_number.kind3_chore_1
+          - input_number.kind3_chore_2
+          - input_number.kind3_chore_3
+          - input_number.kind3_chore_4
+          - input_number.kind3_chore_5
+          - input_number.kind3_chore_6
+          - input_number.kind3_chore_7
+          - input_number.kind3_chore_8
+          - input_number.kind3_chore_9
+          - input_number.kind3_chore_10
+
+      # ============================================================
+      # KIND 4
+      # ============================================================
+      - type: custom:chore-points-card
+        title: "Kind 4"
+        entities:
+          - input_number.kind4_chore_1
+          - input_number.kind4_chore_2
+          - input_number.kind4_chore_3
+          - input_number.kind4_chore_4
+          - input_number.kind4_chore_5
+          - input_number.kind4_chore_6
+          - input_number.kind4_chore_7
+          - input_number.kind4_chore_8
+          - input_number.kind4_chore_9
+          - input_number.kind4_chore_10
+
+# ============================================================
+# TIPS VOOR IPAD DASHBOARD
+# ============================================================
+# - Zet je browser in fullscreen op de iPad (F11 of swipe van bovenkant)
+# - Schakel dark mode in voor best contrast op tablet screens
+# - Vul het scherm maximaal: Settings → Appearance → Sidebar ON/OFF
+# - 2x2 grid layout past perfect op iPad landscape

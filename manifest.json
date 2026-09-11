@@ -1,0 +1,11 @@
+{
+  "domain": "chore-points-card",
+  "name": "Chore Points Card",
+  "codeowners": ["@your-github-username"],
+  "config_flow": false,
+  "documentation": "https://github.com/your-github-username/lovelace-chore-points-card",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0",
+  "homeassistant": "2024.1.0"
+}
